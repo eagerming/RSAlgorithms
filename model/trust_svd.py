@@ -5,7 +5,7 @@ sys.path.append("..")
 
 import math
 import numpy as np
-from mf import MF
+from model.mf import MF
 from reader.trust import TrustGetter
 
 
